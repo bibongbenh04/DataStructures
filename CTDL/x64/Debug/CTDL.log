@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Đồ án CTDL\CTDL\CTDL\Source.cpp(148,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Đồ án CTDL\CTDL\CTDL\Source.cpp(179,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CTDL.vcxproj -> C:\Đồ án CTDL\CTDL\x64\Debug\CTDL.exe
